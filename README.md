@@ -1,2 +1,2 @@
 # GHProjectFirst
-First GitHub Project to test its main function
+First GitHub Project for testing its main function
